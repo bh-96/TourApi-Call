@@ -27,8 +27,8 @@ public class Constants {
     public static final int CONTENT_TYPE_RESTAURANT = 39;
 
     // listYN 목록 구분
-    public static final String LIST_YN_Y = "Y";         // 목록
-    public static final String LIST_YN_N = "N";         // 개수
+    public static final String YN_Y = "Y";         // 목록
+    public static final String YN_N = "N";         // 개수
 
     // arrange 정렬 구분
     public static final String ARRANGE_TITLE = "A";     // 제목순
